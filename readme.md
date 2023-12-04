@@ -8,7 +8,7 @@ To set up and run the Backend of application locally, follow these steps:
     
 - Install the dependencies in both the client-side and server-side directories:
 
-      cd service-request-backend
+      cd service-platform-backend
       npm install
   
 - Configuration 
